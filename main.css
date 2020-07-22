@@ -54,6 +54,14 @@ p {
 
 .welcome-title{
     text-align: center;
+    padding-top: 4vh;
+    padding-bottom: 2vh;
+    font-weight: 350;
+}
+
+.description{
+    text-align: center;
+    font-size: x-large;
 }
 
     /* Title page END */
